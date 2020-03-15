@@ -1,0 +1,16 @@
+html,body,#app{
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    min-width: 1200px;
+}
+.el-card{
+    margin-top: 15px
+}
+
+.el-steps{
+    margin: 15px 0;
+}
+.ql-editor{
+    min-height: 300px;
+}
